@@ -1,0 +1,36 @@
+h2 {
+  text-align: center;
+  color: red;
+}
+
+.flex-container {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-around;
+  margin-right: 250px;
+  margin-left: 250px;
+}
+.card {
+  width: 30%;
+}
+
+.card_container {
+  width: 100%;
+}
+
+.card_image {
+  width: 100%;
+}
+
+.image_title {
+  color: rgb(63, 164, 197);
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+.image_desc {
+  text-align: justify;
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-bottom: 40px;
+}
